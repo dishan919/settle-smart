@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+coverage/
+android/
+ios/
+*.apk
+*.aab
+.env*
+credentials.json
+*.jks
+*.keystore
+npm-debug.log*
